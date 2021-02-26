@@ -1,7 +1,7 @@
 def turn_count(board)
 counter = 0
 board["X","O"]
-board.each{|board| puts "#{board}"}
+board.each do {|board| puts "#{board}"}
 counter += 1
 end
 end
