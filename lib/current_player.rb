@@ -4,4 +4,3 @@ if board.each do {|board|}
 counter += 1
 end
 end
-
