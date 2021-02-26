@@ -5,3 +5,4 @@ board.each do |player|
   counter += 1
 end
 end
+end
