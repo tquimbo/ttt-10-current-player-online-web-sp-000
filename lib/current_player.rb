@@ -5,5 +5,5 @@ board.each do |player|
     turn += 1
   end
 end
-counter
+turn
 end
