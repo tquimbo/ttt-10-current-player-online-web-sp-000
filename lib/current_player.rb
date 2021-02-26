@@ -7,3 +7,10 @@ board.each do |player|
 end
 turn
 end
+
+def current_player(board)
+if turn_count % 2
+  return "X"
+else 
+  "O"
+end
